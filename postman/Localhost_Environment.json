@@ -1,0 +1,25 @@
+{
+  "name": "Localhost Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080",
+      "enabled": true
+    },
+    {
+      "key": "name",
+      "value": "John",
+      "enabled": true
+    },
+    {
+      "key": "surname",
+      "value": "Doe",
+      "enabled": true
+    },
+    {
+      "key": "personID",
+      "value": "",
+      "enabled": true
+    }
+  ]
+}
