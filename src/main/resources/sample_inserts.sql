@@ -1,0 +1,1 @@
+INSERT INTO users (name, surname, person_id, uuid) VALUES ('Jan', 'Novak', 'jXa4g3H7oPq2', '11111111-1111-1111-1111-111111111111');
